@@ -22,6 +22,7 @@ public class Main {
         int numeroMaximoPacientes = 3;
         // Creación de Enfermero
         Enfermero enfermero1 = new Enfermero("Melanie Abelardo", "2831", "Sala de Emergencias");
+
         for (int i = 0; i < numeroMaximoPacientes; i++) {
             System.out.println("<-------------------------------------------------------------------------------->");
             System.out.println("                        HOSPITAL DE CUIDADOS HUMANOS                              ");
@@ -58,6 +59,7 @@ public class Main {
 
             int opcion = 0;
 
+            menuPrincipal:
             do {
                 try {
                     System.out.println("<-------------------------------- MENÚ PRINCIPAL -------------------------------->");
@@ -65,6 +67,7 @@ public class Main {
                     System.out.println("2. Salir");
                     System.out.print("Ingrese una opción: ");
                     opcion = sc.nextInt();
+                    sc.nextLine();
                 } catch (InputMismatchException e) {
                     System.out.println("Error: Se esperaba un número entero. Por favor, ingrese una opción válida.");
                     sc.nextLine(); // Limpiar el búfer de entrada
@@ -78,7 +81,7 @@ public class Main {
                         } catch (PuntajeCeroException e) {
                             System.out.println("Aviso: " + e.getMessage());
                         }
-                        break;
+                        break menuPrincipal;
                     case 2:
                         System.out.println("¡Ha sido un placer atenderle, recupérese pronto!");
                         System.out.println("Cerrando sesión...");
