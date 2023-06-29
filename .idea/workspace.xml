@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8e0b4005-8ea5-4720-af04-b7be921fef13" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ProyectoHospital.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/PacienteNullException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/exceptions/PuntajeCeroException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/Doctor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/Enfermero.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/Paciente.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/SistemaDeEvaluacion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/modelo/Ticket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/Main.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2RlXv1sOoDHnbGKqHBYvfv3ULz1" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "C:/Users/Usuario/Downloads/ProyectoPB",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.lookFeel",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8e0b4005-8ea5-4720-af04-b7be921fef13" name="Changes" comment="" />
+      <created>1687825868821</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1687825868821</updated>
+      <workItem from="1687825869882" duration="15000" />
+      <workItem from="1687825897591" duration="4222000" />
+      <workItem from="1687833218674" duration="5029000" />
+      <workItem from="1687892426550" duration="5108000" />
+      <workItem from="1687898180538" duration="1303000" />
+      <workItem from="1687920271171" duration="5306000" />
+      <workItem from="1687925969377" duration="4237000" />
+      <workItem from="1687979244434" duration="5940000" />
+      <workItem from="1687985653003" duration="17000" />
+      <workItem from="1687985710704" duration="22000" />
+      <workItem from="1688000735461" duration="6069000" />
+      <workItem from="1688006984072" duration="804000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
